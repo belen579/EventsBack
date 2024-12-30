@@ -1,0 +1,7 @@
+
+# write a git ignore
+
+node_modules
+.env
+
+```
